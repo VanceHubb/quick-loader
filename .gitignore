@@ -1,0 +1,6 @@
+node_modules/
+intermediate/
+test/dist/
+sass-loader/
+.DS_Store
+.vscode/
